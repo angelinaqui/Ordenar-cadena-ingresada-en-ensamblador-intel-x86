@@ -1,4 +1,4 @@
-title "Tarea 5"	;codigo opcional. Descripcion breve del programa, el texto entrecomillado se imprime como cabecera en cada pagina de codigo
+title "Ordenar cadena"	;codigo opcional. Descripcion breve del programa, el texto entrecomillado se imprime como cabecera en cada pagina de codigo
 	.model small;directiva de modelo de memoria, small => 64KB para memoria de programa y 64KB para memoria de datos
 	.386		;directiva para indicar version del procesador
 	.stack 64 	;Define el tamano del segmento de stack, se mide en bytes
